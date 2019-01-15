@@ -1,0 +1,37 @@
+h1 {
+    font-weight: 600;
+    font-size: 57px;
+    color: saddlebrown;
+}
+
+h3 {
+    font-weight: 600;
+    font-size: 40px;
+    padding-top: 26px;
+    padding-bottom: 13px;
+    color: darkolivegreen;
+}
+
+.form {
+    margin-bottom: 3.3em;
+}
+
+input[type='text'] {
+    width: 72%;
+    display: block;
+    margin: 30px auto 26px auto;
+    padding: 14px;
+    border-style: double;
+    background-color: peachpuff;
+    color: brown;
+}
+
+input[type='submit'] {
+    display: block;
+    margin: 0 auto;
+    padding: 7px 33px;
+    background-color: navajowhite;
+    color: #6b317a;
+    font-weight: 400;
+    font-size: 22px;
+}

@@ -1,0 +1,34 @@
+.movies {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1 {
+    font-weight: 600;
+    color: saddlebrown;
+    font-size: 43px;
+    padding-bottom: 8%;
+}
+.movie {
+    margin-bottom: 16%;
+}
+
+    p {
+        color: #e6ddd9;
+        font-size: 20px;
+        font-weight: 400;
+        color: #0e274d;
+    }
+
+        strong {
+            color: #722508;
+        }
+
+    .lastBtn {
+        color: #fff;
+        background-color: #141716;
+        border-color: #141716;
+        padding: 8px 31px;
+        font-size: 18px;
+        margin-left: 6%;
+    }
